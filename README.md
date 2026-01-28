@@ -15,12 +15,14 @@ Rozszerzenie przechwytuje próby dodawania nowych wpisów do historii podczas sc
 
 ## Instalacja
 
+0. Pobieramy pliki rozszerzenia z github ->  (Zielony button) <> Code --> Download Zip --> i po pobraniu rozpakowujemy pliki do dowolnego folderu.
+
 ### Firefox
 
 1. Otwórz Firefox
 2. W pasku adresu wpisz: `about:debugging#/runtime/this-firefox`
 3. Kliknij "Wczytaj dodatek tymczasowo..." (Load Temporary Add-on)
-4. Wybierz plik `manifest.json` z folderu rozszerzenia
+4. Wybierz plik `manifest.json` z folderu rozszerzenia 
 5. Rozszerzenie jest zainstalowane!
 
 **Uwaga:** W Firefox dodatki tymczasowe są usuwane po restarcie przeglądarki. Dla stałej instalacji trzeba opublikować rozszerzenie w Mozilla Add-ons.
