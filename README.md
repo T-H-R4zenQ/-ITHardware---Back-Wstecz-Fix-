@@ -15,20 +15,13 @@ Rozszerzenie przechwytuje próby dodawania nowych wpisów do historii podczas sc
 
 ## Instalacja
 
-0. Pobieramy pliki rozszerzenia z github ->  (Zielony button) <> Code --> Download Zip --> i po pobraniu rozpakowujemy pliki do dowolnego folderu.
-
 ### Firefox
+Wystarczy pobrać rozszerzenie na stronie firefox addons:
+https://addons.mozilla.org/pl/firefox/addon/ithardware-back-wstecz-fix/
 
-1. Otwórz Firefox
-2. W pasku adresu wpisz: `about:debugging#/runtime/this-firefox`
-3. Kliknij "Wczytaj dodatek tymczasowo..." (Load Temporary Add-on)
-4. Wybierz plik `manifest.json` z folderu rozszerzenia 
-5. Rozszerzenie jest zainstalowane!
+### Chrome/Edge/Brave (niestety nie mam konta deva za które się płaci, aby wrzucić na store chrome to rozszerzenie)
 
-**Uwaga:** W Firefox dodatki tymczasowe są usuwane po restarcie przeglądarki. Dla stałej instalacji trzeba opublikować rozszerzenie w Mozilla Add-ons.
-
-### Chrome/Edge/Brave
-
+0. Pobieramy pliki rozszerzenia z github ->  (Zielony button) <> Code --> Download Zip --> i po pobraniu rozpakowujemy pliki do dowolnego folderu.
 1. Otwórz Chrome
 2. W pasku adresu wpisz: `chrome://extensions/`
 3. Włącz "Tryb programisty" (Developer mode) w prawym górnym rogu
