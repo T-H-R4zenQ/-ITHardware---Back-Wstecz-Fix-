@@ -1,6 +1,6 @@
 # ITHardware Navigation Fix
 
-Rozszerzenie do przeglądarek Firefox i Chrome, które naprawia problem z przyciskiem "wstecz" na stronie ithardware.pl.
+Nieoficialne rozszerzenie do przeglądarek Firefox i Chrome, które naprawia problem z przyciskiem "wstecz" na stronie ithardware.pl.
 
 ## Problem
 
