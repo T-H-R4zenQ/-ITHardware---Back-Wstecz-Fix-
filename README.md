@@ -19,7 +19,7 @@ Rozszerzenie przechwytuje próby dodawania nowych wpisów do historii podczas sc
 Wystarczy pobrać rozszerzenie na stronie firefox addons:
 https://addons.mozilla.org/pl/firefox/addon/ithardware-back-wstecz-fix/
 
-### Chrome/Edge/Brave (niestety nie mam konta deva za które się płaci, aby wrzucić na store chrome to rozszerzenie)
+### Chrome/Edge/Brave (niestety nie mam konta deva za które się płaci, aby wrzucić na store chroma)
 
 0. Pobieramy pliki rozszerzenia z github ->  (Zielony button) <> Code --> Download Zip --> i po pobraniu rozpakowujemy pliki do dowolnego folderu.
 1. Otwórz Chrome
